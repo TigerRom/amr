@@ -5,7 +5,7 @@ public class Hello{
 		System.out.println("Hello World") ;
 		System.out.println("www.jixianit.com") ;
 		System.out.println("www.jixianit.com") ;
-		System.out.println("www.jixianit.com") ;
+		System.out.println(") ;
 		System.out.println("www.jixianit.com") ;
 	} 
 }
